@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # 1. การตั้งค่าหน้าจอ
-st.set_page_config(page_title="Pressure Ulcer Monitoring Dashboard", layout="wide")
+st.set_page_config(page_title="Pressure injury Monitoring in ward Dashboard", layout="wide")
 
 # ปรับแต่ง CSS เพิ่มเติม
 st.markdown("""
